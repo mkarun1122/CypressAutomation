@@ -1,0 +1,14 @@
+{
+  "name": "section2installandprojectsetup",
+  "version": "1.0.0",
+  "description": "Installation Steps <br>\r ------------------<br>\r 1) download node.js (JS run time environment  )<br>\r 2) Open CLI & Type below commonds <br>\r 3) VS Code ( Open source MS Editor )<br>\r 4)  install cypress using npm ( node package manager) \r 5) create new project \\w npm init commond",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr M Arun",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
