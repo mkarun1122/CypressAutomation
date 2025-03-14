@@ -44,6 +44,13 @@ Ptoject Structure <br>
 ----------------- <br>
 Cypress <br>
 Downloads <br>
-Fixture <br>
-integration / Examples / spec.js <br>
-Support <br>
+Fixture <br> -- Responsible to store test data,this folder reduces avoid coding to read test data
+integration / Examples / spec.js <br> -- this configured to create all test specs 
+Support <br> -- write customized commonds , resuable methods are defined in this folder 
+Plugin <br> -- are listners , ex: on browser invoke set max mode 
+node_modules <br> -- contains npm modules list 
+cypress.config.js --- config file for entire framework
+
+
+Run cypress for Chrome browser <br>
+.\node_modules\.bin\cypress run --browser chrome <br>
