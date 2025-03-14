@@ -54,3 +54,4 @@ cypress.config.js --- config file for entire framework
 
 Run cypress for Chrome browser <br>
 .\node_modules\.bin\cypress run --browser chrome <br>
+![Alt text](/Setion4CyTestRunnerAndCLI\cypressRunBrowserCMD.png?raw=true "Run Screen")
