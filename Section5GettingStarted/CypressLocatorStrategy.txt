@@ -6,3 +6,6 @@ Cypress Locators <br>
 tagname + id --> tagname#id <br>
 tagname + ClassName --> tagname.ClassName<br>
 any Attribute ---> tagname[attribute="value"]<br>
+
+using cypress Test Runner we can get Locators details 
+
