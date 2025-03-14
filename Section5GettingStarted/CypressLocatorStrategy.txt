@@ -1,0 +1,8 @@
+Cypress Locators <br>
+----------------- <br>
+
+<id> --> #id <br>
+<ClassName> --> .ClassName<br>
+tagname + id --> tagname#id <br>
+tagname + ClassName --> tagname.ClassName<br>
+any Attribute ---> tagname[attribute="value"]<br>
