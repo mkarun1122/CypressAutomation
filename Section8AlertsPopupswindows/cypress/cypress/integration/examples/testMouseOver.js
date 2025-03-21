@@ -19,12 +19,6 @@ describe('test Mouse Over - Suite',function(){
         // cy.get('div.mouse-hover-content').invoke('show') // jquery execute immediate elements , taken class instead of ID loc
         cy.contains('Top').click({force:true})
         cy.url().should('include','top')
-        
-        /*
-        Timed out retrying after 4050ms: cy.click() failed because this element is not visible:
-
-    <a href="#top">Top</a>
-
-        */
+  
     })
 })
